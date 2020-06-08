@@ -11,9 +11,6 @@ This Java Specialization is combination of 5 courses.
 
 ### Course-1: Programming Foundations with JavaScript, HTML and CSS
 
-#### About the Course
-Learn foundational programming concepts (e.g., functions, for loops, conditional statements) and how to solve problems like a programmer. In addition, learn basic web development as you build web pages using HTML, CSS, JavaScript. By the end of the course, will create a web page where others can upload their images and apply image filters that you create.
-
 After completing this course, you will be able to:
 
 1. Think critically about how to solve a problem using programming;
@@ -23,10 +20,6 @@ After completing this course, you will be able to:
 5. Make a web page interactive with JavaScript commands like alert, onClick, onChange, adding input features like an image canvas, button, and slider.
 
 ### Course-2:Java Programming: Solving Problems with Software
-
-#### About the Course
-
-Learn to code in Java and improve your programming and problem-solving skills. You will learn to design algorithms as well as develop and debug programs. Using custom open-source classes, you will write programs that access and transform images, websites, and other types of data. At the end of the course you will build a program that determines the popularity of different baby names in the US over time by analyzing comma separated value (CSV) files. 
 
 After completing this course you will be able to:
 
@@ -41,10 +34,6 @@ After completing this course you will be able to:
 
 ### Course-3: Java Programming: Arrays, Lists, and Structured Data
 
-#### About the Course
-
-Build on the software engineering skills you learned in “Java Programming: Solving Problems with Software” by learning new data structures. Use these data structures to build more complex programs that use Java’s object-oriented features. At the end of the course you will write an encryption program and a program to break your encryption algorithm.
-
 After completing this course, you will be able to:
 
 1. Read and write data from/to files;
@@ -55,10 +44,6 @@ After completing this course, you will be able to:
 6. Use iterables and collections (including maps) in Java.
 
 ### Course-4: Java Programming: Principles of Software Design
-
-#### About the Course
-
-Solve real world problems with Java using multiple classes. Learn how to create programming solutions that scale using Java interfaces. Recognize that software engineering is more than writing code - it also involves logical thinking and design. By the end of this course you will have written a program that analyzes and sorts earthquake data, and developed a predictive text generator.
 
 After completing this course, you will be able to:
 
@@ -75,11 +60,8 @@ After completing this course, you will be able to:
 
 ### Course-5: Java Programming: Build a Recommendation System
 
-#### About the Capstone Project
-
-Ever wonder how Netflix decides what movies to recommend for you? Or how Amazon recommends books? We can get a feel for how it works by building a simplified recommender of our own!
-
-In this capstone, you will show off your problem solving and Java programming skills by creating recommender systems. You will work with data for movies, including ratings, but the principles involved can easily be adapted to books, restaurants, and more. You will write a program to answer questions about the data, including which items should be recommended to a user based on their ratings of several movies. Given input files on users ratings and movie titles, you will be able to:
+In this capstone, you will show off your problem solving and Java programming skills by creating recommender systems. You will work with data for movies, including ratings, but the principles involved can easily be adapted to books, restaurants, and more. You will write a program to answer questions about the data, including which items should be recommended to a user based on their ratings of several movies. Given input files on users ratings and movie titles, 
+you will be able to:
 
 1. Read in and parse data into lists and maps;
 2. Calculate average ratings;
