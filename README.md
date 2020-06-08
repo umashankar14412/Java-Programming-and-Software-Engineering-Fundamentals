@@ -1,7 +1,10 @@
 # Java-Programming-and-Software-Engineering-Fundamentals-coursera
 Java Specialization course authorized by Duke University and offered through Coursera. Link: https://www.coursera.org/specializations/java-programming
 
-Hy im Umashankar
+Hy 
+
+Im Umashankar
+
 This Java Specialization is combination of 5 courses. 
 
 ## Courses
