@@ -86,3 +86,7 @@ In this capstone, you will show off your problem solving and Java programming sk
 3. Calculate how similar a given rater is to another user based on ratings; and
 4. Recommend movies to a given user based on ratings. 
 5. Display recommended movies for a given user on a webpage.
+
+KEEP LEARNING AND ENJOY............!
+
+
